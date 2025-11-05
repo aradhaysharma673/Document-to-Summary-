@@ -23,7 +23,7 @@ A production-style FastAPI service that summarizes text documents with rate limi
 
 ### 1. Clone & Setup
 \`\`\`bash
-git clone https://github.com/yourusername/document-summarizer.git
+git clone https://github.com/aradhaysharma673/Document-to-Summary-
 cd document-summarizer
 python -m venv venv
 source venv/bin/activate  # Windows: venv\\Scripts\\activate
@@ -161,4 +161,3 @@ Built with 💙 using FastAPI
 
 ---
 
-## File 12: `LICENSE`
